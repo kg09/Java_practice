@@ -9,7 +9,7 @@ public class find_missing_number {
 		
 		for(int i=1;i< a.length+1;i++)
 		{
-			
+			//chanegs to check git pull
 			int j=0;
 			
 		}
